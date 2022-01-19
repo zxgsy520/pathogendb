@@ -9,4 +9,4 @@ Database
 * [VirusMentha](https://virusmentha.uniroma2.it/)
 * [VirHostNet](https://virhostnet.prabi.fr/)
 * [VFDB](http://www.mgc.ac.cn/VFs/)
-* []()
+* [pgdb](http://data.mypathogen.org/pgdb/)
