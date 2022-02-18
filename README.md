@@ -11,3 +11,4 @@ Database
 * [VFDB](http://www.mgc.ac.cn/VFs/)
 * [pgdb](http://data.mypathogen.org/pgdb/)
 * [globalrph](https://globalrph.com/bacteria/)
+* [pathogen](https://ftp.ncbi.nlm.nih.gov/pathogen/Results/)ncbi病原数据库
