@@ -1,1 +1,3 @@
-s__Mycoplasma_pneumoniae 肺炎支原体 g__Mycoplasma  支原体 呼吸道感染 https://pubmed.ncbi.nlm.nih.gov/29212389/
+s__Mycoplasma_pneumoniae 肺炎支原体 g__Mycoplasma  支原体 呼吸道感染 人(Homo sapiens (related: human)) https://pubmed.ncbi.nlm.nih.gov/29212389/
+s__Mycoplasma_gallisepticum 鸡毒支原体 g__Mycoplasma  支原体  呼吸道感染 人和鸡(Homo sapiens (related: human)、Gallus gallus (related: chicken)) https://pubmed.ncbi.nlm.nih.gov/33476924/
+s__Mycoplasma_agalactiae  无乳支原体 g__Mycoplasma  支原体  败血症、乳腺炎、关节炎、胸膜炎、肺炎和角膜结膜炎  人(Homo sapiens (related: human))  https://pubmed.ncbi.nlm.nih.gov/25097796/
