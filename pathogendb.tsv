@@ -1,7 +1,10 @@
-s__Mycoplasma_pneumoniae 肺炎支原体 g__Mycoplasma  支原体 呼吸道感染 人(Homo sapiens (related: human)) https://pubmed.ncbi.nlm.nih.gov/29212389/
-s__Mycoplasma_gallisepticum 鸡毒支原体 g__Mycoplasma  支原体  呼吸道感染 人和鸡(Homo sapiens (related: human)、Gallus gallus (related: chicken)) https://pubmed.ncbi.nlm.nih.gov/33476924/
-s__Mycoplasma_agalactiae  无乳支原体 g__Mycoplasma  支原体 败血症、乳腺炎、关节炎、胸膜炎、肺炎和角膜结膜炎  人(Homo sapiens (related: human))  https://pubmed.ncbi.nlm.nih.gov/25097796/
-s__Ureaplasma_urealyticum 解脲脲原体 g__Mycoplasma  支原体  关节炎、肺炎、尿路感染、脊髓炎、副鼻窦炎等疾病 人(Homo sapiens (related: human))  https://pubmed.ncbi.nlm.nih.gov/8474408/
-s__Chlamydia_trachomatis  沙眼衣原体 g__Chlamydia 衣原体 感染眼结膜上皮细胞  人(Homo sapiens (related: human))  https://pubmed.ncbi.nlm.nih.gov/12473280/
-s__Anaplasma_phagocytophilum  嗜吞噬细胞无形体  g__Anaplasma  立克次体  发热、全身不适、乏力、头痛、肌肉酸痛，以及恶心、呕吐、食欲缺乏、腹泻等。实验室检查外周血象白细胞、血小板减少，转氨酶升高;严重者可发展为多脏器衰竭、弥散性血管内凝血，甚至死亡。老年患者及免疫缺陷患者感染该病后病情多较危重。 人(Homo sapiens (related: human)) https://pubmed.ncbi.nlm.nih.gov/23885337/
-s__Mycobacterium_avium  鸟分枝杆菌 g__Mycobacterium  分枝杆菌属 感染主要症状是间歇热、盗汗、衰弱、食欲缺乏和体重减轻  人(Homo sapiens (related: human)) https://pubmed.ncbi.nlm.nih.gov/10417376/
+s__Mycoplasma_pneumoniae        肺炎支原体      g__Mycoplasma支原体     呼吸道感染      人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/29212389/
+s__Mycoplasma_gallisepticum     鸡毒支原体      g__Mycoplasma   支原体  呼吸道感染      人和鸡(Homo sapiens (related: human)、Gallus gallus (related: chicken)) https://pubmed.ncbi.nlm.nih.gov/33476924/
+s__Mycoplasma_agalactiae        无乳支原体      g__Mycoplasma   支原体  败血症、乳腺炎、关节炎、胸膜炎、肺>炎和角膜结膜炎       人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/25097796/
+s__Ureaplasma_urealyticum       解脲脲原体      g__Mycoplasma   支原体  关节炎、肺炎、尿路感染、脊髓炎、副>鼻窦炎等疾病 人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/8474408/
+s__Chlamydia_trachomatis        沙眼衣原体      g__Chlamydia    衣原体  感染眼结膜上皮细胞      人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/12473280/
+s__Anaplasma_phagocytophilum    嗜吞噬细胞无形体        g__Anaplasma    立克次体        发热、全身不适、乏>力、头痛、肌肉酸痛，以及恶心、呕吐、食欲缺乏、腹泻等。实验室检查外周血象白细胞、血小板减少，转氨酶升高;严重
+者可发展为多脏器衰竭、弥散性血管内凝血，甚至死亡。老年患者及免疫缺陷患者感染该病后病情多较危重。  人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/23885337/
+s__Mycobacterium_avium  鸟分枝杆菌      g__Mycobacterium        分枝杆菌属 感染主要症状是间歇热、盗汗、衰弱
+、食欲缺乏和体重减轻 人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/10417376/
+s__Taenia_solium        猪绦虫  g__Taenia       绦虫属  寄生与眼内、外组织引起炎症      人和猪(Homo sapiens (related: human)、Sus scrofa(related: pig)) https://pubmed.ncbi.nlm.nih.gov/34631183/
