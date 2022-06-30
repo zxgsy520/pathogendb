@@ -13,3 +13,4 @@ Database
 * [pgdb](http://data.mypathogen.org/pgdb/)
 * [globalrph](https://globalrph.com/bacteria/)
 * [pathogen](https://ftp.ncbi.nlm.nih.gov/pathogen/Results/): ncbi病原数据库
+* [HMDAD](http://www.cuilab.cn/hmdad): 人类微生物-疾病关联数据库
