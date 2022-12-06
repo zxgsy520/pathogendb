@@ -8,3 +8,5 @@ s__Anaplasma_phagocytophilum    嗜吞噬细胞无形体        g__Anaplasma    
 s__Mycobacterium_avium  鸟分枝杆菌      g__Mycobacterium        分枝杆菌属 感染主要症状是间歇热、盗汗、衰弱
 、食欲缺乏和体重减轻 人(Homo sapiens (related: human))       https://pubmed.ncbi.nlm.nih.gov/10417376/
 s__Taenia_solium        猪绦虫  g__Taenia       绦虫属  寄生与眼内、外组织引起炎症      人和猪(Homo sapiens (related: human)、Sus scrofa(related: pig)) https://pubmed.ncbi.nlm.nih.gov/34631183/
+s__Ascaris_lumbricoides 似蚓蛔线虫 g__Ascaris  蛔虫属 成虫寄生于小肠，可引起蛔虫病（Ascariasis 人
+s__Toxocara_canis 犬弓首线虫 g__Toxocara 弓蛔虫属  犬类常见的肠道寄生虫，其幼虫能在人体内移行，引起内脏幼虫移行症（visceral larva migrans，VLM） 人和犬
