@@ -15,3 +15,4 @@ Database
 * [pathogen](https://ftp.ncbi.nlm.nih.gov/pathogen/Results/): ncbi病原数据库
 * [HMDAD](http://www.cuilab.cn/hmdad): 人类微生物-疾病关联数据库
 * [国家啮齿类实验动物资源库](https://nrla.nifdc.org.cn/nrla/zxdt/zxdtl/20201106195022109.html)
+* [国家病原数据库](https://www.nprc.org.cn/#/)
